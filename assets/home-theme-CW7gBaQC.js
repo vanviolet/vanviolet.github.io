@@ -1,0 +1,1 @@
+import{r as t}from"./chunk-UIGDSWPH-CM8uxgId.js";import{u as s}from"./theme-provider-C-fMS5xv.js";import"./index-DILjbIzV.js";import{u as o}from"./use-is-client-iqv5RMXJ.js";function n(){const r=o(),{theme:e}=s();return t.useMemo(()=>r?e==="dark"?!0:e==="light"?!1:window.matchMedia("(prefers-color-scheme: dark)").matches:!1,[r,e])}export{n as u};

@@ -1,0 +1,1 @@
+import{l as o}from"./chunk-UIGDSWPH-CM8uxgId.js";import{c as t}from"./utils-CDN07tui.js";function n({className:r,...e}){return o.jsx("div",{"data-slot":"skeleton",className:t("bg-border/80 dark:bg-border animate-pulse rounded-md",r),...e})}export{n as S};
